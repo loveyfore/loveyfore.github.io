@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 金の博客 - 今天的努力只为遇见更好的自己</title>
+        <title>所有文章 - 金老师の博客 - 今天的努力只为遇见更好的自己</title>
         <link>https://loveyfore.github.io/posts/</link>
-        <description>所有文章 | 金の博客 - 今天的努力只为遇见更好的自己</description>
+        <description>所有文章 | 金老师の博客 - 今天的努力只为遇见更好的自己</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 30 Aug 2021 23:00:36 &#43;0800</lastBuildDate><atom:link href="https://loveyfore.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - 基本概念</title>
     <link>https://loveyfore.github.io/theme-documentation-basics/</link>
